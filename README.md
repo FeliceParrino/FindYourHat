@@ -28,7 +28,7 @@ This is an interactive terminal game built with JavaScript classes. In this game
 
 Run the game with the following command:
 
-   bash
+```bash
 node main.js
 
 
