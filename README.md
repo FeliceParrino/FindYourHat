@@ -22,7 +22,7 @@ This is an interactive terminal game built with JavaScript classes. In this game
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/FeliceParrino/FindYourHat
+   git clone https://github.com/FeliceParrino/FindYourHat.git
    
 ## Usage
 
